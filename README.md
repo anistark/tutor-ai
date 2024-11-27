@@ -4,6 +4,8 @@ Welcome to Tutor AI
 
 _A web app to help you learn coding._
 
+![Demo](screenshots/1.png "Demo")
+
 ## Few Improvements that can be done:
 
 - [ ] Connect an AI model or service like OpenAI apis for better experience.
